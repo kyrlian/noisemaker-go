@@ -1,5 +1,7 @@
 # noise go
 
+Moved to https://codeberg.org/kyrlian/noisemaker-go
+
 Simple sound synthesis, ported from my previous java version.
 
 Install:
